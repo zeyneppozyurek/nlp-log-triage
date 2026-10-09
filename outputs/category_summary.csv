@@ -1,0 +1,13 @@
+category,severity,count
+data,INFO,1
+data,WARN,1
+database,ERROR,1
+database,INFO,1
+network,ERROR,2
+network,INFO,1
+network,WARN,1
+performance,ERROR,1
+performance,WARN,1
+security,ERROR,1
+security,WARN,1
+uncategorized,INFO,2

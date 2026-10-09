@@ -1,0 +1,6 @@
+{
+  "toy_messages": 14,
+  "toy_expected_label_accuracy": 1.0,
+  "uncategorized_count": 2,
+  "method": "ordered regex rules; no learned model"
+}

@@ -1,0 +1,15 @@
+message,expected_category,normalized,category,severity
+ERROR connection timeout while contacting server,network,error connection timeout while contacting server,network,ERROR
+WARN packet loss above threshold,network,warn packet loss above threshold,network,WARN
+ERROR database query failed,database,error database query failed,database,ERROR
+INFO database backup completed,database,info database backup completed,database,INFO
+WARN GPU frame time increased,performance,warn gpu frame time increased,performance,WARN
+ERROR rendering frame drop detected,performance,error rendering frame drop detected,performance,ERROR
+ERROR authentication token expired,security,error authentication token expired,security,ERROR
+WARN invalid password attempt,security,warn invalid password attempt,security,WARN
+INFO session log exported to csv,data,info session log exported to csv,data,INFO
+WARN missing sensor value in data record,data,warn missing sensor value in data record,data,WARN
+INFO application started successfully,uncategorized,info application started successfully,uncategorized,INFO
+INFO user pressed the pause button,uncategorized,info user pressed the pause button,uncategorized,INFO
+ERROR network timeout during database query,network,error network timeout during database query,network,ERROR
+INFO SERVER   CONNECTION restored,network,info server connection restored,network,INFO
